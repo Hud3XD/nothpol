@@ -1,0 +1,119 @@
+Start with /pol/level1.html
+1:
+Simple
+Solution: level1 -> level2
+2:
+Select text and drag
+Solution: level2 -> plzuseit
+3:
+Shirt says "plzuseit" and holds a brain
+Solution: plzuseit -> brain
+4:
+Photo taken in bedisco
+Solution: brain -> bedisco
+5:
+Ori
+Solution: pol -> ori 
+6:
+Microwve from Siemens
+Solution: bedisco -> siemens 
+7:
+Head says "hmmm"
+Solution: siemens -> hmmm 
+8:
+Pol doing the action of "pondering"
+Solution: hmmm -> pondering
+9:
+Pol being freaky
+Solution: pondering -> freaky
+10:
+La broma ya cansa
+Solution: ori -> cansa
+11:
+"hapuchimi" written on the chair to the right
+Solution: freaky -> hapuchimi 
+12:
+
+Solution: -> 
+13:
+
+Solution: -> 
+14:
+
+Solution: -> 
+15:
+
+Solution: -> 
+16:
+
+Solution: -> 
+17:
+
+Solution: -> 
+18:
+
+Solution: -> 
+19:
+
+Solution: -> 
+20:
+
+Solution: -> 
+21:
+
+Solution: -> 
+22:
+
+Solution: -> 
+23:
+
+Solution: -> 
+24:
+
+Solution: -> 
+25:
+
+Solution: -> 
+26:
+
+Solution: -> 
+27:
+
+Solution: -> 
+28:
+
+Solution: -> 
+29:
+
+Solution: -> 
+30:
+Looks like it is the end but there's more
+Solution: -> 
+30.1:
+Puzzle related to Lethal Company
+Solution: -> 
+30.2:
+Lethal Company mod
+Solution: -> 
+30.3:
+Puzzle related to Minecraft
+Solution: -> 
+30.4:
+Minecraft troll achivements mod
+Solution: -> 
+30.5:
+
+Solution: -> 
+30.6:
+I Don't Wanna Be The Pol
+Solution: -> 
+30.7:
+Puzzle related to Deltarune/Undertale
+Solution: ->
+30.8:
+If savefile with Jevil defeated is detected you recieve the solution
+Solution: -> iLoveJevil
+30.9:
+Puzzle related to Pokemon
+Solution: iLoveJevil ->
+40:
