@@ -52,11 +52,11 @@ Solution: hapuchimi -> chartreuse
 
 13:
 A puzzle that gives you the answer when completed
-Solution: chartreuse -> 
+Solution: chartreuse -> speetrap
 
 14:
-
-Solution: -> 
+Answer in the console
+Solution: speentrap -> 
 
 15:
 
@@ -126,40 +126,40 @@ intro2:
 Click the button
 Solution: .me/[smth]/[smth].htm -> .me/gauntlet/[smth].html
 
-31:
-Puzzle related to Lethal Company
-Solution: -> 
+30.1:
 
-32:
+Solution: -> forthecompany
+
+30.2:
 Lethal Company mod
-Solution: -> 
+Solution: forthecompany ->
 
-33:
-Puzzle related to Minecraft
-Solution: -> 
+30.3:
 
-34:
+Solution: -> iamsteve
+
+30.4:
 Minecraft troll achivements mod
-Solution: -> 
+Solution: iamsteve -> quirkyatnight
 
-35:
+30.5:
+Fnaf
+Solution: quirkyatnight -> youarethepol
 
-Solution: -> 
-
-36:
+30.6:
 I Don't Wanna Be The Pol
-Solution: -> 
+Solution: youarethepol -> ilovejevil
 
-37:
-Puzzle related to Deltarune/Undertale
-Solution: ->
-
-38:
+30.7:
 If savefile with Jevil defeated is detected you recieve the solution
-Solution: -> iLoveJevil
+Solution: ilovejevil -> 
 
-39:
-Puzzle related to Pokemon
-Solution: iLoveJevil ->
+30.8:
 
-40:
+Solution: -> poketerror
+
+30.9:
+Pokemon
+Solution: poketerror -> theendisnevertheend
+
+31:
