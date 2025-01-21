@@ -47,12 +47,12 @@ Solution: ori -> cansa
 Solution: freaky -> hapuchimi 
 
 12:
-
-Solution: -> 
+A square of the color chartreuse hidden in the image
+Solution: hapuchimi -> chartreuse
 
 13:
-
-Solution: -> 
+A puzzle that gives you the answer when completed
+Solution: chartreuse -> 
 
 14:
 
