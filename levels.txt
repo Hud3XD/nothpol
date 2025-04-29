@@ -124,42 +124,42 @@ Solution: .html -> .htm
 
 intro2:
 Click the button
-Solution: .me/[smth]/[smth].htm -> .me/gauntlet/[smth].html
+Solution: .me/[smth]/[smth].htm -> .me/gauntlet/ilovejevil.html
 
 30.1:
-
-Solution: -> forthecompany
-
-30.2:
-Lethal Company mod
-Solution: forthecompany ->
-
-30.3:
-
-Solution: -> iamsteve
-
-30.4:
-Minecraft troll achivements mod
-Solution: iamsteve -> quirkyatnight
-
-30.5:
-Fnaf
-Solution: quirkyatnight -> youarethepol
-
-30.6:
-I Don't Wanna Be The Pol
-Solution: youarethepol -> ilovejevil
-
-30.7:
 If savefile with Jevil defeated is detected you recieve the solution
 Solution: ilovejevil -> 
 
+30.2:
+
+Solution: -> forthecompany
+
+30.3:
+Lethal Company mod
+Solution: forthecompany ->
+
+30.4:
+
+Solution: -> iamsteve
+
+30.5:
+Minecraft troll achivements mod
+Solution: iamsteve ->
+
+30.6:
+
+Solution: -> quirkyatnight
+
+30.7:
+Fnaf
+Solution: quirkyatnight -> 
+
 30.8:
 
-Solution: -> poketerror
+Solution: -> youarethepol
 
 30.9:
-Pokemon
-Solution: poketerror -> theendisnevertheend
+I Don't Wanna Be The Pol
+Solution: youarethepol -> theendisnevertheend
 
 31:
