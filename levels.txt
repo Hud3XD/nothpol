@@ -56,42 +56,42 @@ Solution: chartreuse -> speetrap
 
 14:
 Answer in the console
-Solution: speentrap -> 
+Solution: speentrap -> fuckkirby
 
 15:
-
-Solution: -> 
+Answer in comment in "dontlook.js" in sources
+Solution: cansa -> panchi
 
 16:
-
-Solution: -> 
+Line 111 in sources
+Solution: fuckkirby -> galaxypie
 
 17:
-
-Solution: -> 
+Hidden in image on ori's bald head (might need to saturate)
+Solution: galaxypie -> bleh
 
 18:
-
-Solution: -> 
+Shift characters 3 times to the left (cesar cipher) then search which "frog"light color "cold" frogs have in Minecraft
+Solution: bleh -> verdant
 
 19:
-
-Solution: -> 
+Find the mediafire file and find the answer between many parenthesis in the binary (from binary to ascii)
+Solution: verdant -> isthatpol
 
 20:
-
-Solution: -> 
+The image is a gif, the solution lies in a single frame
+Solution: isthatpol -> 
 
 21:
-
+Barcode
 Solution: -> 
 
 22:
-
+Chessboard
 Solution: -> 
 
 23:
-
+Wayback machine
 Solution: -> 
 
 24:
@@ -99,7 +99,7 @@ Solution: ->
 Solution: -> 
 
 25:
-
+Hidden in audio spectogram
 Solution: -> 
 
 26:
@@ -111,12 +111,16 @@ Solution: ->
 Solution: -> 
 
 28:
-
+Hidden image metadata
 Solution: -> 
 
 29:
+Answer is notpol
+Solution: -> notpol
 
-Solution: -> 
+29.5:
+4chan/pol/ post chain
+Solution: notpol -> 
 
 30:
 Looks like it is the end but there's more
@@ -128,35 +132,35 @@ Solution: .me/[smth]/[smth].htm -> .me/gauntlet/ilovejevil.html
 
 30.1:
 If savefile with Jevil defeated is detected you recieve the solution
-Solution: ilovejevil -> 
+Solution: ilovejevil -> partyallnight
 
 30.2:
-
-Solution: -> forthecompany
+Reddit account
+Solution: partyallnight -> forthecompany
 
 30.3:
 Lethal Company mod
-Solution: forthecompany ->
+Solution: forthecompany -> merrychristmas
 
 30.4:
 
-Solution: -> iamsteve
+Solution: merrychristmas -> iamsteve
 
 30.5:
 Minecraft troll achivements mod
-Solution: iamsteve ->
+Solution: iamsteve -> alwayswatching
 
 30.6:
-
-Solution: -> quirkyatnight
+Find all the eyes in find the pols and put the numbers in order to find a roblox user, then find the answer in his experience
+Solution: alwayswatching -> quirkyatnight
 
 30.7:
 Fnaf
-Solution: quirkyatnight -> 
+Solution: quirkyatnight -> polpolpol
 
 30.8:
-
-Solution: -> youarethepol
+what3words (milk.catty.whichever) of three hidden words that gets you to a location then something else
+Solution: polpolpol -> youarethepol
 
 30.9:
 I Don't Wanna Be The Pol
